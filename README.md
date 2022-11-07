@@ -23,7 +23,6 @@
   <img align="left" alt="Vue.js" width="30px" src="https://cdn.svgporn.com/logos/vue.svg">
   <img alt="Laravel" align="left" src="https://cdn.svgporn.com/logos/laravel.svg" width="30px">
   <img alt="VueUse" align="left" src="https://cdn.svgporn.com/logos/vueuse.svg" width="30px">
-  <img alt="AdminLte" align="left" src="https://149841302.v2.pressablecdn.com/wp-content/uploads/2021/03/logo.png" width="30px">
   
 <br />
 </div>
