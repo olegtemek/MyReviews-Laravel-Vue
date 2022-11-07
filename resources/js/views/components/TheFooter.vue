@@ -1,10 +1,8 @@
 <template>
   <footer class="footer">
-    <div class="container">
-      <div class="footer__wrapper">
-        <a href="https://github.com/olegtemek">{{ $t("Github") }}</a>
-        <a href="https://portfolio.olegtemek.kz">{{ $t("My portfolio") }}</a>
-      </div>
+    <div class="footer__wrapper">
+      <a href="https://github.com/olegtemek">{{ $t("Github") }}</a>
+      <a href="https://portfolio.olegtemek.kz">{{ $t("My portfolio") }}</a>
     </div>
   </footer>
 </template>

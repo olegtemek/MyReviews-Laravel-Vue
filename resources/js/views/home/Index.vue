@@ -1,29 +1,27 @@
 <template>
   <div class="home">
-    <div class="container">
-      <div class="home__wrapper">
-        <CardComponent
-          :title="$t('Hello')"
-          :text="
-            $t(
-              'On this site, I wanted to implement multi lang on vue + laravel and decided to envision the idea of the site. My choice fell on a site with my reviews about movies, anime'
-            )
-          "
-        />
-        <CardComponent
-          :title="$t('Technologies that i used')"
-          :list="[
-            'Laravel',
-            'Vue 3 with composition api',
-            'Vuex',
-            'Vue-router',
-            'Vue-use(onClickOutside)',
-            'Laravel vue i18n',
-            'AdminLTE for admin panel templates',
-            'Laravel elfinder',
-          ]"
-        />
-      </div>
+    <div class="home__wrapper">
+      <CardComponent
+        :title="$t('Hello')"
+        :text="
+          $t(
+            'On this site, I wanted to implement multi lang on vue + laravel and decided to envision the idea of the site. My choice fell on a site with my reviews about movies, anime'
+          )
+        "
+      />
+      <CardComponent
+        :title="$t('Technologies that i used')"
+        :list="[
+          'Laravel',
+          'Vue 3 with composition api',
+          'Vuex',
+          'Vue-router',
+          'Vue-use(onClickOutside)',
+          'Laravel vue i18n',
+          'AdminLTE for admin panel templates',
+          'Laravel elfinder',
+        ]"
+      />
     </div>
   </div>
 </template>
