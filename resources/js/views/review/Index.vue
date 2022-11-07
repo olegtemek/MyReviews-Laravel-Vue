@@ -58,7 +58,7 @@ const review = computed(() => {
       text-align: center;
     }
     p {
-      max-width: 600px;
+      max-width: 100%;
       font-size: 20px;
       line-height: 120%;
       text-align: center;
