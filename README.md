@@ -31,16 +31,6 @@
 
 ---
 
-For example go to (https://myreviews.olegtemek.kz)
-
-* Data for auth
-* Login: preview@preview.preview
-* Password: preview
-
-⚠️This user admin cannot add and update review⚠️
-
----
-
 ➡️ [more projects...](https://github.com/olegtemek)
 
 ---

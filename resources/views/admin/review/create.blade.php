@@ -96,11 +96,9 @@ Review create
                 </div>
               </div>
 
-
-
             </div>
           <div class="card-footer">
-          <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary">Submit</button>
           </div>
           </form>
           </div>
