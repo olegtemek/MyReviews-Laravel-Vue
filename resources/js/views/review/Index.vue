@@ -55,6 +55,7 @@ const review = computed(() => {
       font-size: 32px;
       font-weight: $fw-medium;
       padding-bottom: 20px;
+      text-align: center;
     }
     p {
       max-width: 600px;
