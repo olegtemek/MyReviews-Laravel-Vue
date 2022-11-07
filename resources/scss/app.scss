@@ -1,0 +1,40 @@
+@import '@style/_normalize.scss';
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+
+
+
+
+#app {
+  height: 100%;
+}
+
+body {
+  background-color: $gray;
+  color: $white;
+  position: relative;
+  font-family: 'Rubik';
+  font-weight: $fw-light;
+
+  button {
+    color: inherit;
+  }
+}
+
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  @media (max-width:1220px) {
+    max-width: 900px;
+  }
+
+  @media (max-width:940px) {
+    max-width: 600px;
+  }
+
+  @media (max-width:640px) {
+    max-width: 100%;
+    padding: 0 20px !important;
+  }
+}
